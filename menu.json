@@ -1,0 +1,26 @@
+{
+    "menu": [
+      {
+        "name": "Empezar",
+        "link": "/Empezar"
+      },
+      {
+        "name": "Ofertas",
+        "link": "/Ofertas",
+        "subMenu": [
+          {
+            "name": "Asesoria",
+            "link": "/Ofertas/Asesoria"
+          },
+          {
+            "name": "Capacitacion",
+            "link": "/Ofertas/Capacitacion"
+          }
+        ]
+      },
+      {
+        "name": "Contacto",
+        "link": "/contacto"
+      }
+    ]
+  }
